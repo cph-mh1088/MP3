@@ -1,16 +1,32 @@
-What type/s of regression have you applied?
-I've applied three types of regression: Linear Regression, Multiple Linear Regression, and Polynomial Regression
+# Regression Analysis - House Price Prediction
 
-Which were the challenges?
-Dealing with outliers in the data set
-Choosing the degree for polynomial regression
+## Overview
+This project involves predicting house prices using different regression techniques. Here's a brief summary of the key aspects:
 
-How accurate is your solution?
-Multiple Linear Regression R2: ~0.54
-Linear Regression R2: ~0.50
-Polynomial Regression R2: ~0.50
+### Types of Regression Applied
+- Linear Regression
+- Multiple Linear Regression
+- Polynomial Regression
 
-- What could be done for further improvement of the accuracy?
-Experiment with different features and their combinations for better input to the models.
-Fine-tune hyperparameters or try other regression techniques.
-Address outliers more systematically, maybe exploring their impact on different models.
+### Challenges Faced
+1. **Outliers:**
+   - Dealing with outliers in the dataset.
+   
+2. **Degree Selection:**
+   - Choosing the appropriate degree for polynomial regression.
+
+### Accuracy of Solutions
+- Multiple Linear Regression R2: ~0.54
+- Linear Regression R2: ~0.50
+- Polynomial Regression R2: ~0.50
+
+### Suggestions for Further Improvement
+1. **Feature Exploration:**
+   - Experiment with different features and their combinations for better input to the models.
+
+2. **Hyperparameter Tuning:**
+   - Fine-tune hyperparameters or explore other regression techniques for potential improvements.
+
+3. **Outlier Handling:**
+   - Systematically address outliers, considering their impact on different models.
+
